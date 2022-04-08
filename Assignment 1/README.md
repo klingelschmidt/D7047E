@@ -8,3 +8,6 @@
 
 ## Adam and Tanh
 67%
+
+# Tensorboard
+![plot](./tensorboard.png)
