@@ -1,7 +1,7 @@
 # Accuracy on test set
 
 ## SGD and LeakyReLU
-
+22%
 
 ## Adam and LeakyReLU
 67%
