@@ -7,3 +7,6 @@
 ## MNIST
 
 ## Transfer learning on SVHM
+
+## Why the difference in pretrained vs untrained?
+The pretrained network has been trained on more data than we have on the CIFAR10 dataset.
