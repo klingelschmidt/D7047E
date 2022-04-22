@@ -6,7 +6,7 @@
 61.19%
 ## MNIST
 98.0%
-## Transfer learning on SVHM
+## Transfer learning on SVHN
 22.0%
 ## Why the difference in pretrained vs untrained?
 The pretrained network has been trained on more data than we have on the CIFAR10 dataset.
