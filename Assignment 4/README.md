@@ -1,6 +1,22 @@
 # Perplexity
 ![plot](./perplexity.png)
 # Output
+## Ligma
+Ligmance was nothing;
+And they sent a fame against thy justice,
+As you swear charity, but enjoy, lord rem
+
+## berty
+berty.
+
+ANTIGONUS:
+I say. I can never repent fair provised;
+And do that, let me now hard it, thou art so
+
+## things
+things thousand being the port;
+Bid me for live. Will I you tell the law, good lord,
+And thou prove him an
 ## The
 The valours, you have stock how that
 The life now and traitor's moving cause for every brother
