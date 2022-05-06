@@ -1,5 +1,10 @@
 # Task 1
 
+## 10k
+![10k final image](./Images/10kFinal.png)
+![10k evolution](./Images/10k.gif)
+![10k loss](./Images/10k.PNG)
+
 ## 20k
 ![20k final image](./Images/20kFinal.png)
 ![20k evolution](./Images/20k.gif)
