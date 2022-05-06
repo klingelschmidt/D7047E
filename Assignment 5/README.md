@@ -2,7 +2,7 @@
 
 ## 10k
 ![10k final image](./Images/10kFinal.png)
-![10k final image (Logistic loss)](./Images/10kLogistic.png)
+![10k final image (Logistic loss)](./Images/10kLogistic.png) (logistic loss)
 ![10k evolution](./Images/10k.gif)
 ![10k loss](./Images/10k.PNG)
 
